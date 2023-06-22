@@ -13,12 +13,10 @@ mkdir millenium_falcon
 cd millenium_falcon/
 touch han_solo.txt chewbaca.txt
 cd ..
-ls
 mv ben_kenobi.txt obi_wan.txt
 cd ..
 cd death-star/
 cp storm_trooper.txt ../tatooine/
-c ..
 cd ..
 cd tatooine/
 mv luke.txt obi_wan.txt ./millenium_falcon/
