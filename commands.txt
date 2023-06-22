@@ -1,0 +1,9 @@
+$ mkdir git-github-and-terminal
+
+$ cd git-github-and-terminal/
+
+$ mkdir galaxy-far-far-away
+
+$ cd galaxy-far-far-away/
+
+$ touch commands.txt
